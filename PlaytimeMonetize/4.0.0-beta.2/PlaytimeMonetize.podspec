@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  unique_hash = "0ed0d578668f"
+  unique_hash = "bfdaf452ac7d"
 
   spec.name         = "PlaytimeMonetize"
   spec.version      = "4.0.0-beta.2"
