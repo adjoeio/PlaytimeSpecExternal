@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-    unique_hash = "ca45fae302b3"
+    unique_hash = "9b578336e7d5"
 
     spec.name         = "RewardsConnectSDK"
     spec.version      = "1.0.1"
